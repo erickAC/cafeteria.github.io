@@ -1,0 +1,58 @@
+body{
+    background: #f9f9f9;    
+}
+
+.navbar{
+    background: #262225;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #D9BCA3;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #D9BCA3;
+    border-bottom: 1px solid white;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #D9BCA3;
+}
+
+.cont_1 button{
+    border-radius: 16px;
+    background: #262225;
+    border: none;
+}
+
+.cont_1 button:hover{
+    background-color: #8C5D42;
+    border: none;
+}
+
+.cont_2{
+    background: #D9BCA3;
+
+}
+
+.cont_2 button{
+    border-radius: 16px;
+    background: #262225;
+    border: none;
+}
+
+.cont_2 button:hover{
+    background-color: #8C5D42;
+    border: none;
+}
+
+.cont_3 .card{
+    background-color: transparent;
+    border: none;
+}
+
+
+.cont_3 .card-img-top{
+    height: 262px;
+
+}
